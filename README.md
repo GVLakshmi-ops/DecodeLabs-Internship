@@ -1,4 +1,4 @@
-# DecodeLabs Internship — Data Analytics Project
+# DecodeLabs Internship — Week 1: Data Analytics Project
 
 A data analytics internship project completed as part of the **DecodeLabs** program. The project focuses on real-world data cleaning and preprocessing using Python and Excel, producing a verified, analysis-ready dataset from a raw e-commerce orders file.
 
